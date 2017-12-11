@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="Map.xsl" ?>
+
+<Map>
+	
+	<room>
+		<description>You are in your cell</description>
+		<details>there's a door to the East</details>
+	</room>
+	<room>
+		<description>you are in cell#2 there's a password on the floor</description>
+		<details>there's an exit to the south</details>
+	</room>
+	<room>
+		<description>You are in cell#3 you see a locker in the corner</description>
+		<details>there's an a exit to the north</details>
+	</room>
+
+</Map>
