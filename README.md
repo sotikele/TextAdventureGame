@@ -1,7 +1,7 @@
 # TextAdventureGame
 
 
-this program is progress,has some buggs and its not tested
+this project is in progress,has some buggs and its not tested
 
  Τhis is the basic architecture
  
